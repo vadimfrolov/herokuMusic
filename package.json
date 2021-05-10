@@ -23,7 +23,7 @@
     "http-errors": "~1.6.3",
     "instagram-scraping": "^1.0.11",
     "jade": "~1.11.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "mongoose": "^5.7.7",
     "morgan": "~1.9.1",
     "node-fetch": "^2.6.0",
